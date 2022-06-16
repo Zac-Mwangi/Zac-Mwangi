@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+<!-- ### 😂Random Dev Meme
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4m4nOeBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcrhginkjug2x8lusrth.png" width="512px"/>
-
+ -->
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=Zac-Mwangi&icon=0&color=0)](https://visitcount.itsvg.in) -->
