@@ -1,22 +1,31 @@
-<!-- ### Hi there 👋
+### Hi there, I'm Zac Mwangi 👋
 
+I'm a software engineer based in Nairobi, Kenya, with a passion for building web applications that solve real-world problems.
 
-**Zac-Mwangi/Zac-Mwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
 
-Here are some ideas to get you started: -->
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- MongoDB
+- Firebase
+- HTML/CSS
 
-- 🔭 I’m currently working on Android Projects especially POS...
-- 🌱 I’m currently learning Ruby on Rails for the backend Development...
-- 👯 I’m looking to collaborate on any React.js, Android Java , Ruby , Js projects...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: zackmwangi998@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: "When the code work dont change"...
+#### Projects
 
+Here are some of my recent projects:
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- [My Portfolio](https://github.com/Zac-Mwangi/My-Portfolio): A personal portfolio website built with React and styled-components.
+- [E-commerce Website](https://github.com/Zac-Mwangi/E-commerce-Website): An e-commerce website built with MERN stack (MongoDB, Express, React, Node.js).
+- [To-Do List App](https://github.com/Zac-Mwangi/To-Do-List-App): A simple to-do list app built with React and Firebase.
+
+#### Contact me
+
+- [LinkedIn](https://www.linkedin.com/in/zac-mwangi-1b207a198/)
+- [Twitter](https://twitter.com/ZacMwangi_)
+- [My Website](https://zacmwangi.netlify.app/)
+
+Thanks for stopping by! Feel free to reach out to me if you have any questions or would like to collaborate on a project.
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Zac-Mwangi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zac-Mwangi&theme=dark&hide_border=false)<br/>
